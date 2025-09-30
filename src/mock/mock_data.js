@@ -60,7 +60,7 @@ export const mockData = {
           "name": "racknerd",
           "url": "https://racknerd.com/",
           "description": "",
-          "icon": "https://racknerd.com/images/logo-light.png"
+          "icon": "https://xshuffle.me/sitelogo/racknerd.com.ico"
         }
       ]
     },
@@ -89,7 +89,7 @@ export const mockData = {
           "name": "皮皮妖",
           "url": "https://www.pipiyao.cc/",
           "description": "在线观看适配，含枪版",
-          "icon": "https://www.pipiyao.cc/mxtheme/images/logo.png"
+          "icon": "https://xshuffle.me/sitelogo/www.pipiyao.cc.ico"
         }
       ]
     },
