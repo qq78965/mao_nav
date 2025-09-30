@@ -50,7 +50,7 @@ export const mockData = {
         },
         {
           "id": "site-1752644060499",
-          "name": "怕死云",
+          "name": "帕斯云",
           "url": "https://www.pasyun.com/",
           "description": "ipv6机器",
           "icon": "/sitelogo/www.pasyun.com.ico"
