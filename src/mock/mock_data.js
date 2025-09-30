@@ -4,7 +4,7 @@ export const mockData = {
       "id": "cloud",
       "name": "云服务",
       "icon": "☁️",
-      "order": 1,
+      "order": 0,
       "sites": [
         {
           "id": "cloudflare",
@@ -83,7 +83,7 @@ export const mockData = {
       "id": "community",
       "name": "社区论坛",
       "icon": "👥",
-      "order": 6,
+      "order": 4,
       "sites": [
         {
           "id": "linuxdo",
@@ -119,7 +119,7 @@ export const mockData = {
       "id": "entertainment",
       "name": "娱乐休闲",
       "icon": "🎮",
-      "order": 8,
+      "order": 2,
       "sites": [
         {
           "id": "bilibili",
