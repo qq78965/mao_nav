@@ -157,6 +157,21 @@ export const mockData = {
           "icon": "/sitelogo/www.52pojie.cn.ico"
         }
       ]
+    },
+    {
+      "id": "category-1759262281396",
+      "icon": "💻",
+      "name": "导航🍁",
+      "order": 4,
+      "sites": [
+        {
+          "id": "site-1759262400758",
+          "name": "Navigation",
+          "url": "https://xshuffle.me/",
+          "description": "",
+          "icon": "https://xshuffle.me/logo.png"
+        }
+      ]
     }
   ],
   "title": "666导航🍁"
