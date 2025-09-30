@@ -90,6 +90,13 @@ export const mockData = {
           "url": "https://www.pipiyao.cc/",
           "description": "在线观看适配，含枪版",
           "icon": "https://xshuffle.me/sitelogo/www.pipiyao.cc.ico"
+        },
+        {
+          "id": "site-1759262086776",
+          "name": "打字鸭",
+          "url": "http://daziya.com/",
+          "description": "免费打字练习平台",
+          "icon": ""
         }
       ]
     },
