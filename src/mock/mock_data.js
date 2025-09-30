@@ -83,6 +83,13 @@ export const mockData = {
           "url": "https://www.youtube.com",
           "description": "视频分享平台",
           "icon": "/sitelogo/www.youtube.com.ico"
+        },
+        {
+          "id": "site-1759261655123",
+          "name": "皮皮妖",
+          "url": "https://www.pipiyao.cc/",
+          "description": "在线观看适配，含枪版",
+          "icon": "https://www.pipiyao.cc/mxtheme/images/logo.png"
         }
       ]
     },
