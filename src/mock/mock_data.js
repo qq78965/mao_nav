@@ -54,6 +54,13 @@ export const mockData = {
           "url": "https://www.pasyun.com/",
           "description": "ipv6机器",
           "icon": "/sitelogo/www.pasyun.com.ico"
+        },
+        {
+          "id": "site-1759261271303",
+          "name": "racknerd",
+          "url": "https://racknerd.com/",
+          "description": "",
+          "icon": "https://racknerd.com/images/logo-light.png"
         }
       ]
     },
