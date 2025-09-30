@@ -123,10 +123,32 @@ export const mockData = {
       ]
     },
     {
+      "id": "category-1759262281396",
+      "icon": "💻",
+      "name": "导航🍁",
+      "order": 3,
+      "sites": [
+        {
+          "id": "site-1759262400758",
+          "name": "Navigation",
+          "url": "https://xshuffle.me/",
+          "description": "",
+          "icon": "https://xshuffle.me/logo.png"
+        },
+        {
+          "id": "site-1759262515537",
+          "name": "猫猫导航🐱",
+          "url": "https://nav.maodeyu.fun/",
+          "description": "",
+          "icon": "https://nav.maodeyu.fun/logo.png"
+        }
+      ]
+    },
+    {
       "id": "community",
       "name": "社区论坛",
       "icon": "👥",
-      "order": 3,
+      "order": 4,
       "sites": [
         {
           "id": "linuxdo",
@@ -155,28 +177,6 @@ export const mockData = {
           "url": "https://www.52pojie.cn/",
           "description": "软件安全与破解技术论坛",
           "icon": "/sitelogo/www.52pojie.cn.ico"
-        }
-      ]
-    },
-    {
-      "id": "category-1759262281396",
-      "icon": "💻",
-      "name": "导航🍁",
-      "order": 4,
-      "sites": [
-        {
-          "id": "site-1759262400758",
-          "name": "Navigation",
-          "url": "https://xshuffle.me/",
-          "description": "",
-          "icon": "https://xshuffle.me/logo.png"
-        },
-        {
-          "id": "site-1759262515537",
-          "name": "猫猫导航🐱",
-          "url": "https://nav.maodeyu.fun/",
-          "description": "",
-          "icon": "https://nav.maodeyu.fun/logo.png"
         }
       ]
     }
