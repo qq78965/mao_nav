@@ -170,6 +170,13 @@ export const mockData = {
           "url": "https://xshuffle.me/",
           "description": "",
           "icon": "https://xshuffle.me/logo.png"
+        },
+        {
+          "id": "site-1759262515537",
+          "name": "猫猫导航🐱",
+          "url": "https://nav.maodeyu.fun/",
+          "description": "",
+          "icon": "https://nav.maodeyu.fun/logo.png"
         }
       ]
     }
