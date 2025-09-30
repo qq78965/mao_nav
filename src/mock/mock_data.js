@@ -47,7 +47,7 @@ export const mockData = {
       "id": "ai-tools",
       "name": "AI智能",
       "icon": "🤖",
-      "order": 1,
+      "order": 2,
       "sites": [
         {
           "id": "chatgpt",
@@ -90,7 +90,7 @@ export const mockData = {
       "id": "cloud",
       "name": "云服务",
       "icon": "☁️",
-      "order": 2,
+      "order": 1,
       "sites": [
         {
           "id": "cloudflare",
@@ -233,106 +233,6 @@ export const mockData = {
           "url": "https://www.52pojie.cn/",
           "description": "软件安全与破解技术论坛",
           "icon": "/sitelogo/www.52pojie.cn.ico"
-        }
-      ]
-    },
-    {
-      "id": "design",
-      "name": "设计工具",
-      "icon": "🎨",
-      "order": 4,
-      "sites": [
-        {
-          "id": "figma",
-          "name": "Figma",
-          "url": "https://figma.com",
-          "description": "UI设计工具",
-          "icon": "/sitelogo/figma.com.ico"
-        },
-        {
-          "id": "sketch",
-          "name": "Sketch",
-          "url": "https://www.sketch.com",
-          "description": "界面设计工具",
-          "icon": "/sitelogo/www.sketch.com.ico"
-        },
-        {
-          "id": "canva",
-          "name": "Canva",
-          "url": "https://www.canva.com",
-          "description": "在线设计平台",
-          "icon": "/sitelogo/www.canva.com.ico"
-        },
-        {
-          "id": "adobe-xd",
-          "name": "Adobe XD",
-          "url": "https://www.adobe.com/products/xd.html",
-          "description": "用户体验设计工具",
-          "icon": "/sitelogo/www.adobe.com.ico"
-        }
-      ]
-    },
-    {
-      "id": "finance",
-      "name": "财经投资",
-      "icon": "💰",
-      "order": 5,
-      "sites": [
-        {
-          "id": "binance",
-          "name": "币安",
-          "url": "https://www.binance.com",
-          "description": "加密货币交易平台",
-          "icon": "/sitelogo/www.binance.com.ico"
-        },
-        {
-          "id": "okx",
-          "name": "OKX",
-          "url": "https://www.okx.com",
-          "description": "数字资产交易服务平台",
-          "icon": "/sitelogo/www.okx.com.ico"
-        },
-        {
-          "id": "bitget",
-          "name": "Bitget",
-          "url": "https://www.bitget.com",
-          "description": "全球化数字资产交易服务商",
-          "icon": "/sitelogo/www.bitget.com.ico"
-        },
-        {
-          "id": "tradingview",
-          "name": "TradingView",
-          "url": "https://cn.tradingview.com",
-          "description": "专业金融图表和交易平台",
-          "icon": "/sitelogo/cn.tradingview.com.ico"
-        },
-        {
-          "id": "tonghuashun",
-          "name": "同花顺",
-          "url": "https://www.10jqka.com.cn",
-          "description": "专业股票软件及金融信息服务",
-          "icon": "/sitelogo/www.10jqka.com.cn.ico"
-        },
-        {
-          "id": "xueqiu",
-          "name": "雪球",
-          "url": "https://xueqiu.com",
-          "description": "聪明的投资者都在这里",
-          "icon": "/sitelogo/xueqiu.com.ico"
-        },
-        {
-          "id": "coinbase",
-          "name": "Coinbase",
-          "url": "https://www.coinbase.com",
-          "description": "美国合规加密货币交易平台",
-          "icon": "/sitelogo/www.coinbase.com.ico"
-        },
-        {
-          "id": "futu",
-          "name": "富途牛牛",
-          "url": "https://www.futunn.com",
-          "description": "港美股交易软件",
-          "icon": "/sitelogo/www.futunn.com.ico"
         }
       ]
     },
@@ -481,6 +381,5 @@ export const mockData = {
       ]
     }
   ],
-  "title": "666导航🍁",
-  "_fileSha": "b96cdded9e7c8357b5eb0ae7c9bf7d378fc15972"
+  "title": "666导航🍁"
 }
