@@ -223,7 +223,7 @@ export const mockData = {
         },
         {
           "id": "site-1759287965072",
-          "name": "IIP 查询 ",
+          "name": "IP 查询 ",
           "url": "https://iplark.com/",
           "description": "IP 检测",
           "icon": "https://xshuffle.me/sitelogo/iplark.com.ico"
