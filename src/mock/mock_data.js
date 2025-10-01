@@ -82,6 +82,13 @@ export const mockData = {
           "url": "https://app.rainyun.com/dashboard",
           "description": "",
           "icon": "https://app.rainyun.com/img/logo.d193755d.png"
+        },
+        {
+          "id": "site-1759284676002",
+          "name": "FinalShell",
+          "url": "https://www.hostbuf.com/",
+          "description": "FinalShell  SSH\n",
+          "icon": "https://img3.downza.cn/download/202402/172600-65d864a8e74eb.jpg"
         }
       ]
     },
