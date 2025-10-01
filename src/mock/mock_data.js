@@ -213,7 +213,15 @@ export const mockData = {
       "icon": "🔧",
       "name": "在线工具",
       "order": 5,
-      "sites": []
+      "sites": [
+        {
+          "id": "site-1759287812619",
+          "name": "IP 查询 ",
+          "url": "https://ping0.cc/",
+          "description": "查询IP纯净度",
+          "icon": "https://xshuffle.me/sitelogo/ping0.cc.ico"
+        }
+      ]
     },
     {
       "id": "community",
