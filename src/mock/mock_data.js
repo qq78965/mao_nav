@@ -68,6 +68,13 @@ export const mockData = {
           "url": "https://www.lcayun.com/",
           "description": "",
           "icon": "https://www.lcayun.com/upload/banner/2023-10/11/169700642979539.png"
+        },
+        {
+          "id": "site-1759283690198",
+          "name": " Evoxt",
+          "url": "https://console.evoxt.com/login",
+          "description": "",
+          "icon": "https://tse3-mm.cn.bing.net/th/id/OIP-C.-xLY_uZq8OMXjtzJYw7ljQHaCW?w=324&h=110&c=7&r=0&o=5&dpr=2&pid=1.7"
         }
       ]
     },
