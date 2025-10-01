@@ -125,7 +125,7 @@ export const mockData = {
     {
       "id": "category-1759262281396",
       "icon": "💻",
-      "name": "导航🍁",
+      "name": "网站导航",
       "order": 3,
       "sites": [
         {
