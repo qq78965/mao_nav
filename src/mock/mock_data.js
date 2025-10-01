@@ -82,13 +82,6 @@ export const mockData = {
           "url": "https://app.rainyun.com/dashboard",
           "description": "",
           "icon": "https://app.rainyun.com/img/logo.d193755d.png"
-        },
-        {
-          "id": "site-1759286158240",
-          "name": "AdGuardHome",
-          "url": "https://github.com/AdguardTeam/AdGuardHome?tab=readme-ov-file#automated-install-linux-and-mac",
-          "description": "广告卫士团队\n",
-          "icon": "https://tse2-mm.cn.bing.net/th/id/OIP-C.htDg1SUBQcldsF6LYSpluwAAAA?w=151&h=180&c=7&r=0&o=5&dpr=2&pid=1.7"
         }
       ]
     },
@@ -154,6 +147,13 @@ export const mockData = {
           "url": "https://www.hostbuf.com/",
           "description": "FinalShell  SSH\n",
           "icon": "https://img.pcsoft.com.cn/soft/202408/152946-66d0236a4987c.png"
+        },
+        {
+          "id": "site-1759286158240",
+          "name": "AdGuardHome",
+          "url": "https://github.com/AdguardTeam/AdGuardHome?tab=readme-ov-file#automated-install-linux-and-mac",
+          "description": "广告卫士团队\n",
+          "icon": "https://tse2-mm.cn.bing.net/th/id/OIP-C.htDg1SUBQcldsF6LYSpluwAAAA?w=151&h=180&c=7&r=0&o=5&dpr=2&pid=1.7"
         }
       ]
     },
