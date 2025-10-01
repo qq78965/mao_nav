@@ -146,7 +146,7 @@ export const mockData = {
           "name": "FinalShell",
           "url": "https://www.hostbuf.com/",
           "description": "FinalShell  SSH\n",
-          "icon": "https://img.pcsoft.com.cn/soft/202303/105855-6407f9ef069e4.jpg"
+          "icon": "https://img.pcsoft.com.cn/soft/202408/152946-66d0236a4987c.png"
         }
       ]
     },
