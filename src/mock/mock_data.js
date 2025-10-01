@@ -61,6 +61,13 @@ export const mockData = {
           "url": "https://racknerd.com/",
           "description": "",
           "icon": "https://xshuffle.me/sitelogo/racknerd.com.ico"
+        },
+        {
+          "id": "site-1759283594506",
+          "name": "莱卡云",
+          "url": "https://www.lcayun.com/",
+          "description": "",
+          "icon": "https://www.lcayun.com/upload/banner/2023-10/11/169700642979539.png"
         }
       ]
     },
