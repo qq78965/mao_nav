@@ -82,6 +82,13 @@ export const mockData = {
           "url": "https://app.rainyun.com/dashboard",
           "description": "",
           "icon": "https://app.rainyun.com/img/logo.d193755d.png"
+        },
+        {
+          "id": "site-1759314330178",
+          "name": "name.com",
+          "url": "https://www.name.com/",
+          "description": "购买域名网站",
+          "icon": "https://tse3-mm.cn.bing.net/th/id/OIP-C.G1Oxo5uFA9j2uGuwk5wkTgHaBF?w=393&h=57&c=7&r=0&o=7&dpr=2&pid=1.7&rm=3"
         }
       ]
     },
