@@ -75,6 +75,13 @@ export const mockData = {
           "url": "https://console.evoxt.com/login",
           "description": "",
           "icon": "https://tse3-mm.cn.bing.net/th/id/OIP-C.-xLY_uZq8OMXjtzJYw7ljQHaCW?w=324&h=110&c=7&r=0&o=5&dpr=2&pid=1.7"
+        },
+        {
+          "id": "site-1759283987689",
+          "name": "雨云",
+          "url": "https://app.rainyun.com/dashboard",
+          "description": "",
+          "icon": "https://app.rainyun.com/img/logo.d193755d.png"
         }
       ]
     },
