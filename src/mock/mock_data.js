@@ -175,6 +175,13 @@ export const mockData = {
           "url": "https://1panel.cn/",
           "description": "新一代运维面板",
           "icon": "https://dh.kejilion.pro/wp-content/uploads/2023/11/Snipaste_2023-11-09_22-26-03.png"
+        },
+        {
+          "id": "site-1759479962120",
+          "name": "宝塔",
+          "url": "https://www.bt.cn/new/index.html",
+          "description": "宝塔面板\n",
+          "icon": "https://www.bt.cn/static/new/images/logo_03.svg"
         }
       ]
     },
