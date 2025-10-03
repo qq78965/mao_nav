@@ -145,7 +145,7 @@ export const mockData = {
           "id": "github",
           "name": "GitHub",
           "url": "https://github.com",
-          "description": "代码托管平台",
+          "description": "全球最大开源平台",
           "icon": "/sitelogo/github.com.ico"
         },
         {
