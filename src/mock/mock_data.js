@@ -190,6 +190,13 @@ export const mockData = {
           "url": "https://mail.163.com/",
           "description": "",
           "icon": "https://tse4-mm.cn.bing.net/th/id/OIP-C.-WAK6KHAocaYC0IM-87JUgAAAA?w=100&h=100&c=7&r=0&o=5&dpr=2&pid=1.7"
+        },
+        {
+          "id": "site-1759478985538",
+          "name": " Outlook",
+          "url": "https://outlook.live.com/",
+          "description": "微软Outlook邮箱",
+          "icon": "https://dh.kejilion.pro/wp-content/uploads/2024/02/images-5.jpg"
         }
       ]
     },
