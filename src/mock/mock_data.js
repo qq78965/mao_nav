@@ -109,7 +109,7 @@ export const mockData = {
           "id": "youtube",
           "name": "YouTube",
           "url": "https://www.youtube.com",
-          "description": "视频分享平台",
+          "description": "油管\n\n",
           "icon": "/sitelogo/www.youtube.com.ico"
         },
         {
