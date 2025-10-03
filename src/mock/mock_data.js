@@ -125,6 +125,13 @@ export const mockData = {
           "url": "http://daziya.com/",
           "description": "免费打字练习平台",
           "icon": ""
+        },
+        {
+          "id": "site-1759479403219",
+          "name": "TikTok",
+          "url": "https://www.tiktok.com/",
+          "description": "网页版\n",
+          "icon": "https://sf-tb-sg.ibytedtos.com/obj/eden-sg/uhtyvueh7nulogpoguhm/tiktok-icon2.png"
         }
       ]
     },
