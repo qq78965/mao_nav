@@ -168,6 +168,13 @@ export const mockData = {
           "url": "https://github.com/AdguardTeam/AdGuardHome?tab=readme-ov-file#automated-install-linux-and-mac",
           "description": "广告卫士团队\n",
           "icon": "https://tse2-mm.cn.bing.net/th/id/OIP-C.htDg1SUBQcldsF6LYSpluwAAAA?w=151&h=180&c=7&r=0&o=5&dpr=2&pid=1.7"
+        },
+        {
+          "id": "site-1759479769662",
+          "name": "1Panel",
+          "url": "https://1panel.cn/",
+          "description": "新一代运维面板",
+          "icon": "https://dh.kejilion.pro/wp-content/uploads/2023/11/Snipaste_2023-11-09_22-26-03.png"
         }
       ]
     },
