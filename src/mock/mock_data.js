@@ -178,9 +178,9 @@ export const mockData = {
         },
         {
           "id": "site-1759479962120",
-          "name": "宝塔",
+          "name": "宝塔面板",
           "url": "https://www.bt.cn/new/index.html",
-          "description": "宝塔面板\n",
+          "description": "老牌运维面板",
           "icon": "https://www.bt.cn/static/new/images/logo_03.svg"
         }
       ]
