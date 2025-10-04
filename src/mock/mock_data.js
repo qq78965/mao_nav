@@ -9,7 +9,7 @@ export const mockData = {
         {
           "id": "cloudflare",
           "name": "Cloudflare",
-          "url": "https://www.cloudflare.com",
+          "url": "https://dash.cloudflare.com",
           "description": "全球CDN和网络安全服务",
           "icon": "/sitelogo/www.cloudflare.com.ico"
         },
