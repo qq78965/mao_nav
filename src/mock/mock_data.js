@@ -96,6 +96,13 @@ export const mockData = {
           "url": "https://bytevirt.com/index.php",
           "description": "",
           "icon": "https://bytevirt.com/assets/img/logo.png"
+        },
+        {
+          "id": "site-1759713912630",
+          "name": "cloudcone",
+          "url": "https://cloudcone.com/",
+          "description": "",
+          "icon": "https://cloudcone.com/wp-content/uploads/2017/05/cloudcone-logo-full.png"
         }
       ]
     },
