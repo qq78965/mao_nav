@@ -196,6 +196,13 @@ export const mockData = {
           "url": "https://vpsls.com/",
           "description": "",
           "icon": "https://vpsls.com/vpslog.png"
+        },
+        {
+          "id": "site-1759713685717",
+          "name": "ITDOG",
+          "url": "https://www.itdog.cn/ping/",
+          "description": "多地Ping、常规版、icmp协议、网络延迟测试",
+          "icon": "https://www.itdog.cn/frame/images/logo_2023.png?v=20251002A"
         }
       ]
     },
