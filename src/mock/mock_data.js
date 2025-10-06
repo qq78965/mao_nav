@@ -189,6 +189,13 @@ export const mockData = {
           "url": "https://www.bt.cn/new/index.html",
           "description": "老牌运维面板",
           "icon": "https://www.bt.cn/static/new/images/logo_03.svg"
+        },
+        {
+          "id": "site-1759713353307",
+          "name": "实用的VPS选购指南",
+          "url": "https://vpsls.com/",
+          "description": "",
+          "icon": "https://vpsls.com/vpslog.png"
         }
       ]
     },
