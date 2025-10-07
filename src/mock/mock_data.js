@@ -366,7 +366,7 @@ export const mockData = {
           "name": "AdGuard",
           "url": "http://103.106.191.146:3000/#",
           "description": "",
-          "icon": "https://github.com/AdguardTeam/AdGuardHome/raw/master/doc/adguard_home_lightmode.svg"
+          "icon": "https://avatars.githubusercontent.com/u/8361145?s=48&v=4"
         }
       ]
     },
