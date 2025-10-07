@@ -289,6 +289,13 @@ export const mockData = {
           "url": "https://naiyous.com/",
           "description": "",
           "icon": "https://naiyous.com/wp-content/uploads/2022/11/LOGO.png"
+        },
+        {
+          "id": "site-1759837021274",
+          "name": "jcnf的导航站",
+          "url": "https://ybfl.net/",
+          "description": "",
+          "icon": "https://pic.ybfl.xyz/i/2022/09/27/yqm0ov-0.png"
         }
       ]
     },
