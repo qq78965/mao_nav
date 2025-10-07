@@ -217,6 +217,13 @@ export const mockData = {
           "url": "https://www.itdog.cn/ping/",
           "description": "",
           "icon": "https://www.itdog.cn/frame/images/logo_2023.png?v=20251002A"
+        },
+        {
+          "id": "site-1759837896779",
+          "name": "彩虹易支付系统操作手册",
+          "url": "https://www.kancloud.cn/net909/epay/2590611",
+          "description": "",
+          "icon": "https://tse3-mm.cn.bing.net/th/id/OIP-C.vurR8LXENtXuV0FsHb2n_wHaHa?w=161&h=180&c=7&r=0&o=7&cb=12&dpr=2&pid=1.7&rm=3"
         }
       ]
     },
