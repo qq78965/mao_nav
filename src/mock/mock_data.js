@@ -268,6 +268,13 @@ export const mockData = {
           "url": "https://nav.maodeyu.fun/",
           "description": "",
           "icon": "https://nav.maodeyu.fun/logo.png"
+        },
+        {
+          "id": "site-1759836495819",
+          "name": "科技小露",
+          "url": "https://www.kejixiaolu.com/tiktok.html",
+          "description": "",
+          "icon": "https://yt3.googleusercontent.com/QzWo0bQN1CZXU8BrfBBCiyQLSQKYfqjcj1N4bfTmxVCgbHYowOOfPrg27HIhfU8rK1c4NeWu=s160-c-k-c0x00ffffff-no-rj"
         }
       ]
     },
