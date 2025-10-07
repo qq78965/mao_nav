@@ -346,6 +346,13 @@ export const mockData = {
           "url": "https://iplark.com/",
           "description": "IP 检测",
           "icon": "https://xshuffle.me/sitelogo/iplark.com.ico"
+        },
+        {
+          "id": "site-1759848037454",
+          "name": "ip125",
+          "url": "https://ip125.com/",
+          "description": "IP 查询",
+          "icon": "https://ip125.com/images/logo.png"
         }
       ]
     },
