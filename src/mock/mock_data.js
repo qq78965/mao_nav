@@ -360,6 +360,13 @@ export const mockData = {
           "url": "https://ip125.com/",
           "description": "IP 查询",
           "icon": "https://ip125.com/images/logo.png"
+        },
+        {
+          "id": "site-1759860855404",
+          "name": "AdGuard",
+          "url": "http://103.106.191.146:3000/#",
+          "description": "",
+          "icon": "https://github.com/AdguardTeam/AdGuardHome/raw/master/doc/adguard_home_lightmode.svg"
         }
       ]
     },
