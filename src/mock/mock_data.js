@@ -224,6 +224,13 @@ export const mockData = {
           "url": "https://www.kancloud.cn/net909/epay/2590611",
           "description": "",
           "icon": "https://tse3-mm.cn.bing.net/th/id/OIP-C.vurR8LXENtXuV0FsHb2n_wHaHa?w=161&h=180&c=7&r=0&o=7&cb=12&dpr=2&pid=1.7&rm=3"
+        },
+        {
+          "id": "site-1759844424748",
+          "name": "Virtual Servers",
+          "url": "https://nerdvm.racknerd.com/home.php",
+          "description": "",
+          "icon": "https://xshuffle.me/sitelogo/racknerd.com.ico"
         }
       ]
     },
