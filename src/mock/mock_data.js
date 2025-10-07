@@ -210,6 +210,13 @@ export const mockData = {
           "url": "https://www.itdog.cn/ping/",
           "description": "",
           "icon": "https://www.itdog.cn/frame/images/logo_2023.png?v=20251002A"
+        },
+        {
+          "id": "site-1759836728394",
+          "name": "异次元店铺系统",
+          "url": "https://wiki.mcy.im/#/README",
+          "description": "",
+          "icon": "https://wiki.mcy.im/favicon.ico"
         }
       ]
     },
