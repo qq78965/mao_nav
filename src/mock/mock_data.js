@@ -170,6 +170,13 @@ export const mockData = {
           "icon": "/sitelogo/code.visualstudio.com.ico"
         },
         {
+          "id": "site-1759713685717",
+          "name": "ITDOG",
+          "url": "https://www.itdog.cn/ping/",
+          "description": "",
+          "icon": "https://www.itdog.cn/frame/images/logo_2023.png?v=20251002A"
+        },
+        {
           "id": "site-1759284676002",
           "name": "FinalShell",
           "url": "https://www.hostbuf.com/",
@@ -210,13 +217,6 @@ export const mockData = {
           "url": "https://wiki.mcy.im/#/README",
           "description": "",
           "icon": "https://wiki.mcy.im/favicon.ico"
-        },
-        {
-          "id": "site-1759713685717",
-          "name": "ITDOG",
-          "url": "https://www.itdog.cn/ping/",
-          "description": "",
-          "icon": "https://www.itdog.cn/frame/images/logo_2023.png?v=20251002A"
         },
         {
           "id": "site-1759837896779",
