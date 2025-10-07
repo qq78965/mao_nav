@@ -238,6 +238,13 @@ export const mockData = {
           "url": "https://nerdvm.racknerd.com/home.php",
           "description": "",
           "icon": "https://xshuffle.me/sitelogo/racknerd.com.ico"
+        },
+        {
+          "id": "site-1759870454198",
+          "name": "v2rayN",
+          "url": "https://github.com/2dust/v2rayN/releases/tag/7.12.7",
+          "description": "",
+          "icon": "https://avatars.githubusercontent.com/u/31833384?s=48&v=4"
         }
       ]
     },
