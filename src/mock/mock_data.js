@@ -303,6 +303,13 @@ export const mockData = {
           "url": "https://ybfl.net/",
           "description": "",
           "icon": "https://pic.ybfl.xyz/i/2022/09/27/yqm0ov-0.png"
+        },
+        {
+          "id": "site-1759840445466",
+          "name": "一点科技",
+          "url": "https://1keji.net/c/5-category/5",
+          "description": "",
+          "icon": "http://1keji.net/uploads/default/original/1X/8890980b4aed595e16e5dd5c23e20b4b38918b0d.webp"
         }
       ]
     },
