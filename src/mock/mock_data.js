@@ -145,7 +145,7 @@ export const mockData = {
           "name": "TikTok",
           "url": "https://www.tiktok.com/",
           "description": "网页版\n",
-          "icon": "https://sf-tb-sg.ibytedtos.com/obj/eden-sg/uhtyvueh7nulogpoguhm/tiktok-icon2.png"
+          "icon": "https://tse1-mm.cn.bing.net/th/id/OIP-C.fx6v-A5MAT7NLoCSeE5cDQHaHa?w=153&h=180&c=7&r=0&o=7&cb=12&dpr=2&pid=1.7&rm=3"
         }
       ]
     },
