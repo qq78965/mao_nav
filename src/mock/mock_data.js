@@ -338,6 +338,13 @@ export const mockData = {
           "url": "https://nav.maodeyu.fun/",
           "description": "",
           "icon": "https://nav.maodeyu.fun/logo.png"
+        },
+        {
+          "id": "site-1760151992831",
+          "name": "66 Nav",
+          "url": "https://66.088878.xyz/",
+          "description": "",
+          "icon": "https://66.088878.xyz/logo.png"
         }
       ]
     },
