@@ -245,6 +245,13 @@ export const mockData = {
           "url": "https://github.com/2dust/v2rayN/releases/tag/7.12.7",
           "description": "",
           "icon": "https://avatars.githubusercontent.com/u/31833384?s=48&v=4"
+        },
+        {
+          "id": "site-1760237411412",
+          "name": "無名の主页",
+          "url": "https://github.com/imsyy/home",
+          "description": "",
+          "icon": "https://avatars.githubusercontent.com/u/42232682?s=48&v=4"
         }
       ]
     },
