@@ -326,6 +326,13 @@ export const mockData = {
           "icon": "https://naiyous.com/wp-content/uploads/2022/11/LOGO.png"
         },
         {
+          "id": "site-1760237652802",
+          "name": "凿壁偷光不算偷",
+          "url": "https://www.sinc.us.kg/",
+          "description": "导航站",
+          "icon": "https://blog.sinc.us.kg/favicon.ico"
+        },
+        {
           "id": "site-1759837021274",
           "name": "jcnf的导航站",
           "url": "https://ybfl.net/",
@@ -359,13 +366,6 @@ export const mockData = {
           "url": "https://66.088878.xyz/",
           "description": "",
           "icon": "https://66.088878.xyz/logo.png"
-        },
-        {
-          "id": "site-1760237652802",
-          "name": "凿壁偷光不算偷",
-          "url": "https://www.sinc.us.kg/",
-          "description": "导航站",
-          "icon": "https://blog.sinc.us.kg/favicon.ico"
         }
       ]
     },
