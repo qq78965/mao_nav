@@ -180,7 +180,7 @@ export const mockData = {
           "id": "site-1759713685717",
           "name": "ITDOG",
           "url": "https://www.itdog.cn/ping/",
-          "description": "",
+          "description": "在线Ping IP\n",
           "icon": "https://www.itdog.cn/frame/images/logo_2023.png?v=20251002A"
         },
         {
