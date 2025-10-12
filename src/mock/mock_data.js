@@ -364,7 +364,7 @@ export const mockData = {
           "id": "site-1760237652802",
           "name": "凿壁偷光不算偷",
           "url": "https://www.sinc.us.kg/",
-          "description": "",
+          "description": "导航站",
           "icon": "https://blog.sinc.us.kg/favicon.ico"
         }
       ]
