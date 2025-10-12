@@ -146,6 +146,13 @@ export const mockData = {
           "url": "https://www.tiktok.com/",
           "description": "网页版\n",
           "icon": "https://tse1-mm.cn.bing.net/th/id/OIP-C.fx6v-A5MAT7NLoCSeE5cDQHaHa?w=153&h=180&c=7&r=0&o=7&cb=12&dpr=2&pid=1.7&rm=3"
+        },
+        {
+          "id": "site-1760238321812",
+          "name": "观影GYING",
+          "url": "https://www.gying.in/",
+          "description": "",
+          "icon": "https://xshuffle.me/sitelogo/www.gying.in.ico"
         }
       ]
     },
