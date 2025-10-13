@@ -259,6 +259,13 @@ export const mockData = {
           "url": "https://github.com/imsyy/home",
           "description": "",
           "icon": "https://avatars.githubusercontent.com/u/42232682?s=48&v=4"
+        },
+        {
+          "id": "site-1760324871667",
+          "name": "SSL 证书",
+          "url": "https://httpsok.com/index?p=4V1j",
+          "description": "轻松搞定SSL证书自动续期",
+          "icon": "https://cdn.httpsok.com/assets/logo.png"
         }
       ]
     },
