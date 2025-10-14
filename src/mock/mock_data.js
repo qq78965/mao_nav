@@ -373,6 +373,13 @@ export const mockData = {
           "url": "https://66.088878.xyz/",
           "description": "",
           "icon": "https://66.088878.xyz/logo.png"
+        },
+        {
+          "id": "site-1760411532139",
+          "name": "豌豆",
+          "url": "https://wandou.eu.org/",
+          "description": "",
+          "icon": "https://wandou.eu.org/wp-content/uploads/2023/08/%E8%B1%8C%E8%B1%86%E5%8D%9A%E5%AE%A2-1.png"
         }
       ]
     },
