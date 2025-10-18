@@ -387,6 +387,13 @@ export const mockData = {
           "url": "https://wandou.eu.org/",
           "description": "",
           "icon": "https://wandou.eu.org/wp-content/uploads/2023/08/%E8%B1%8C%E8%B1%86%E5%8D%9A%E5%AE%A2-1.png"
+        },
+        {
+          "id": "site-1760770192004",
+          "name": "NodePass & NPSH",
+          "url": "https://naiyous.com/9270.html",
+          "description": "面板搭建实操指南",
+          "icon": "https://avatars.githubusercontent.com/u/209877006?s=48&v=4"
         }
       ]
     },
