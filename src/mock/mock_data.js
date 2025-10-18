@@ -271,7 +271,7 @@ export const mockData = {
           "id": "site-1760769701031",
           "name": "NodePass",
           "url": "https://github.com/NodePassProject/npsh",
-          "description": "NodePass  提供高性能 TCP/UDP 隧道服务，支持多系统和灵活配置。\n\n",
+          "description": "NodePass  中转面板\n\n",
           "icon": "https://avatars.githubusercontent.com/u/209877006?s=48&v=4"
         }
       ]
