@@ -103,6 +103,13 @@ export const mockData = {
           "url": "https://cloudcone.com/",
           "description": "",
           "icon": "https://cloudcone.com/wp-content/uploads/2017/05/cloudcone-logo-full.png"
+        },
+        {
+          "id": "site-1760851061520",
+          "name": "Spaceship",
+          "url": "https://www.spaceship.com/zh/",
+          "description": "购买域名网站",
+          "icon": "https://66.088878.xyz/sitelogo/spaceship.com.ico"
         }
       ]
     },
