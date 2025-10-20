@@ -287,6 +287,13 @@ export const mockData = {
           "url": "https://github.com/spiritLHLS/ecs",
           "description": "服务器测评项目",
           "icon": "https://avatars.githubusercontent.com/u/103393591?s=48&v=4"
+        },
+        {
+          "id": "site-1760973829783",
+          "name": "SMS-Activate",
+          "url": "https://sms-activate.io/",
+          "description": "接码平台",
+          "icon": "https://smsactivate.s3.eu-central-1.amazonaws.com/assets/img/icons/logo/logo.svg"
         }
       ]
     },
