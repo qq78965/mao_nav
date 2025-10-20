@@ -280,6 +280,13 @@ export const mockData = {
           "url": "https://github.com/NodePassProject/npsh",
           "description": "NodePass  中转面板\n\n",
           "icon": "https://avatars.githubusercontent.com/u/209877006?s=48&v=4"
+        },
+        {
+          "id": "site-1760968976519",
+          "name": "spiritLHLS",
+          "url": "https://github.com/spiritLHLS/ecs",
+          "description": "服务器测评项目",
+          "icon": "https://avatars.githubusercontent.com/u/103393591?s=48&v=4"
         }
       ]
     },
