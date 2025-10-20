@@ -294,6 +294,13 @@ export const mockData = {
           "url": "https://sms-activate.io/",
           "description": "接码平台",
           "icon": "https://smsactivate.s3.eu-central-1.amazonaws.com/assets/img/icons/logo/logo.svg"
+        },
+        {
+          "id": "site-1760974383205",
+          "name": "WindTerm 2.5.0",
+          "url": "https://github.com/kingToolbox/WindTerm/releases/tag/2.5.0",
+          "description": "SSH远程终端",
+          "icon": "https://avatars.githubusercontent.com/u/51009775?s=48&v=4"
         }
       ]
     },
