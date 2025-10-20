@@ -145,7 +145,7 @@ export const mockData = {
           "name": "打字鸭",
           "url": "http://daziya.com/",
           "description": "免费打字练习平台",
-          "icon": ""
+          "icon": "https://daziya.com/assets/img/home/logo.svg"
         },
         {
           "id": "site-1759479403219",
