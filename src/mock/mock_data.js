@@ -184,13 +184,6 @@ export const mockData = {
           "icon": "/sitelogo/code.visualstudio.com.ico"
         },
         {
-          "id": "site-1759713685717",
-          "name": "ITDOG",
-          "url": "https://www.itdog.cn/ping/",
-          "description": "在线Ping IP\n",
-          "icon": "https://www.itdog.cn/frame/images/logo_2023.png?v=20251002A"
-        },
-        {
           "id": "site-1759284676002",
           "name": "FinalShell",
           "url": "https://www.hostbuf.com/",
@@ -458,6 +451,13 @@ export const mockData = {
           "url": "http://103.106.191.146:3000/#",
           "description": "",
           "icon": "https://avatars.githubusercontent.com/u/8361145?s=48&v=4"
+        },
+        {
+          "id": "site-1759713685717",
+          "name": "ITDOG",
+          "url": "https://www.itdog.cn/ping/",
+          "description": "在线Ping IP\n",
+          "icon": "https://www.itdog.cn/frame/images/logo_2023.png?v=20251002A"
         }
       ]
     },
