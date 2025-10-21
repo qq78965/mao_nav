@@ -293,7 +293,7 @@ export const mockData = {
           "name": "SMS-Activate",
           "url": "https://sms-activate.io/",
           "description": "接码平台",
-          "icon": "https://tse2-mm.cn.bing.net/th/id/OIP-C.iPufXHh0zuR-ZKWS5u4F-gAAAA?w=146&h=150&c=7&r=0&o=7&cb=12&dpr=2&pid=1.7&rm=3&ucfimg=1"
+          "icon": "https://smsactivate.s3.eu-central-1.amazonaws.com/assets/img/icons/logo/logo.svg"
         },
         {
           "id": "site-1760974383205",
