@@ -294,6 +294,13 @@ export const mockData = {
           "url": "https://github.com/kingToolbox/WindTerm/releases/tag/2.5.0",
           "description": "SSH远程终端",
           "icon": "https://avatars.githubusercontent.com/u/51009775?s=48&v=4"
+        },
+        {
+          "id": "site-1761102202470",
+          "name": "Matsuri 茉莉",
+          "url": "https://github.com/MatsuriDayo/Matsuri",
+          "description": "",
+          "icon": ""
         }
       ]
     },
