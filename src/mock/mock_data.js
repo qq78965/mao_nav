@@ -307,7 +307,7 @@ export const mockData = {
           "name": "Matsuri 茉莉",
           "url": "https://github.com/MatsuriDayo/Matsuri",
           "description": "",
-          "icon": ""
+          "icon": "https://avatars.githubusercontent.com/u/48624112?v=4"
         }
       ]
     },
