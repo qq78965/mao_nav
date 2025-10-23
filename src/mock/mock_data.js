@@ -110,6 +110,13 @@ export const mockData = {
           "url": "https://www.spaceship.com/zh/",
           "description": "购买域名网站",
           "icon": "https://66.088878.xyz/sitelogo/spaceship.com.ico"
+        },
+        {
+          "id": "site-1761196230372",
+          "name": "零零壹云计算",
+          "url": "https://www.001yun.net/",
+          "description": "",
+          "icon": "https://www.001yun.net/upload/logo-colours.png"
         }
       ]
     },
