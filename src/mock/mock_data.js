@@ -422,6 +422,13 @@ export const mockData = {
           "url": "https://naiyous.com/9270.html",
           "description": "面板搭建实操指南",
           "icon": "https://avatars.githubusercontent.com/u/209877006?s=48&v=4"
+        },
+        {
+          "id": "site-1761188521015",
+          "name": "FRE123",
+          "url": "https://fre123.com/",
+          "description": "",
+          "icon": "https://fre123.com/img/de8a069165967b269c0583488d68d32c.webp?format=webp&quality=80"
         }
       ]
     },
