@@ -479,13 +479,6 @@ export const mockData = {
           "url": "http://103.106.191.146:3000/#",
           "description": "",
           "icon": "https://avatars.githubusercontent.com/u/8361145?s=48&v=4"
-        },
-        {
-          "id": "site-1761282583654",
-          "name": " AdGuard",
-          "url": "http://156.233.228.187:3000/#",
-          "description": "",
-          "icon": "https://avatars.githubusercontent.com/u/8361145?s=48&v=4"
         }
       ]
     },
