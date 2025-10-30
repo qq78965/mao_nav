@@ -436,6 +436,13 @@ export const mockData = {
           "url": "https://fre123.com/",
           "description": "",
           "icon": "https://fre123.com/img/de8a069165967b269c0583488d68d32c.webp?format=webp&quality=80"
+        },
+        {
+          "id": "site-1761798688589",
+          "name": "自建魔法教程",
+          "url": "https://catkin-fridge-7b9.notion.site/2684297f55d480ad910ada9735236ce6",
+          "description": "",
+          "icon": ""
         }
       ]
     },
