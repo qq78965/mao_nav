@@ -441,7 +441,7 @@ export const mockData = {
           "id": "site-1761967633850",
           "name": "sspanel uim面板",
           "url": "https://naiyous.com/7209.html",
-          "description": "2025最新sspanel uim面板",
+          "description": "2025最新sspanel uim面板\n视频搭建过程:https://www.youtube.com/watch?v=Zr4ZvfqWXGM",
           "icon": "https://naiyous.com/wp-content/uploads/2022/11/LOGO.png"
         }
       ]
