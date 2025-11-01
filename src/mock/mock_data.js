@@ -427,7 +427,7 @@ export const mockData = {
           "id": "site-1760770192004",
           "name": "NodePass & NPSH",
           "url": "https://naiyous.com/9270.html",
-          "description": "面板搭建实操指南",
+          "description": "面板搭建实操指南\n视频搭建过程:https://www.youtube.com/watch?v=PnN4Bw7yQYU&t=287s",
           "icon": "https://avatars.githubusercontent.com/u/209877006?s=48&v=4"
         },
         {
