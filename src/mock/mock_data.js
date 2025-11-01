@@ -436,6 +436,13 @@ export const mockData = {
           "url": "https://fre123.com/",
           "description": "",
           "icon": "https://fre123.com/img/de8a069165967b269c0583488d68d32c.webp?format=webp&quality=80"
+        },
+        {
+          "id": "site-1761967633850",
+          "name": "sspanel uim面板",
+          "url": "https://naiyous.com/7209.html",
+          "description": "2025最新sspanel uim面板",
+          "icon": "https://naiyous.com/wp-content/uploads/2022/11/LOGO.png"
         }
       ]
     },
