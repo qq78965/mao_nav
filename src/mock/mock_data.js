@@ -479,6 +479,13 @@ export const mockData = {
           "url": "https://wiki.mcy.im/#/README",
           "description": "",
           "icon": "https://wiki.mcy.im/favicon.ico"
+        },
+        {
+          "id": "site-1762123415191",
+          "name": "哆啦A梦面板 Flux-Panel",
+          "url": "https://www.typemylife.com/setup-doraemon-flux-panel-with-ix-vps-admin-guide/",
+          "description": "哆啦A梦Flux Panel转发面板合租车主教程",
+          "icon": "https://www.nodeseek.com/avatar/21286.png"
         }
       ]
     },
