@@ -487,7 +487,15 @@ export const mockData = {
       "icon": "🌐",
       "name": "个人搭建",
       "order": 6,
-      "sites": []
+      "sites": [
+        {
+          "id": "site-1759860855404",
+          "name": "AdGuard",
+          "url": "http://103.106.191.146:3000/#",
+          "description": "",
+          "icon": "https://avatars.githubusercontent.com/u/8361145?s=48&v=4"
+        }
+      ]
     },
     {
       "id": "category-1759287502073",
@@ -522,13 +530,6 @@ export const mockData = {
           "url": "https://ip125.com/",
           "description": "IP 查询",
           "icon": "https://ip125.com/images/logo.png"
-        },
-        {
-          "id": "site-1759860855404",
-          "name": "AdGuard",
-          "url": "http://103.106.191.146:3000/#",
-          "description": "",
-          "icon": "https://avatars.githubusercontent.com/u/8361145?s=48&v=4"
         }
       ]
     },
