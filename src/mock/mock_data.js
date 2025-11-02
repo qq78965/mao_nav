@@ -322,6 +322,13 @@ export const mockData = {
           "url": "https://github.com/gm-cx/3x-ui-cn?tab=readme-ov-file",
           "description": "",
           "icon": "https://github.com/gm-cx/3x-ui-cn/raw/main/media/3X-UI.png"
+        },
+        {
+          "id": "site-1762072036055",
+          "name": "hiddify",
+          "url": "https://github.com/hiddify/hiddify-app",
+          "description": "",
+          "icon": "https://github.com/hiddify/hiddify.com/raw/main/docs/assets/hiddify-app-logo.svg"
         }
       ]
     },
