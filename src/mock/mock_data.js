@@ -450,6 +450,13 @@ export const mockData = {
           "url": "https://naiyous.com/7209.html",
           "description": "2025最新sspanel uim面板\n视频搭建过程:https://www.youtube.com/watch?v=Zr4ZvfqWXGM",
           "icon": "https://naiyous.com/wp-content/uploads/2022/11/LOGO.png"
+        },
+        {
+          "id": "site-1762065146102",
+          "name": "S-UI 面板",
+          "url": "https://naiyous.com/8895.html",
+          "description": "面板一键搭建",
+          "icon": "https://naiyous.com/wp-content/uploads/2022/11/LOGO.png"
         }
       ]
     },
