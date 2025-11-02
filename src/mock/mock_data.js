@@ -431,18 +431,26 @@ export const mockData = {
           "icon": "https://wandou.eu.org/wp-content/uploads/2023/08/%E8%B1%8C%E8%B1%86%E5%8D%9A%E5%AE%A2-1.png"
         },
         {
-          "id": "site-1760770192004",
-          "name": "NodePass & NPSH",
-          "url": "https://naiyous.com/9270.html",
-          "description": "面板搭建实操指南\n视频搭建过程:https://www.youtube.com/watch?v=PnN4Bw7yQYU&t=287s",
-          "icon": "https://avatars.githubusercontent.com/u/209877006?s=48&v=4"
-        },
-        {
           "id": "site-1761188521015",
           "name": "FRE123",
           "url": "https://fre123.com/",
           "description": "",
           "icon": "https://fre123.com/img/de8a069165967b269c0583488d68d32c.webp?format=webp&quality=80"
+        }
+      ]
+    },
+    {
+      "id": "category-1762065608255",
+      "icon": "📁",
+      "name": "搭建指南",
+      "order": 5,
+      "sites": [
+        {
+          "id": "site-1760770192004",
+          "name": "NodePass & NPSH",
+          "url": "https://naiyous.com/9270.html",
+          "description": "面板搭建实操指南\n视频搭建过程:https://www.youtube.com/watch?v=PnN4Bw7yQYU&t=287s",
+          "icon": "https://avatars.githubusercontent.com/u/209877006?s=48&v=4"
         },
         {
           "id": "site-1761967633850",
@@ -455,17 +463,10 @@ export const mockData = {
           "id": "site-1762065146102",
           "name": "S-UI 面板",
           "url": "https://naiyous.com/8895.html",
-          "description": "面板一键搭建",
+          "description": "搭建实操指南",
           "icon": "https://naiyous.com/wp-content/uploads/2022/11/LOGO.png"
         }
       ]
-    },
-    {
-      "id": "category-1762065608255",
-      "icon": "📁",
-      "name": "搭建指南",
-      "order": 5,
-      "sites": []
     },
     {
       "id": "category-1759287502073",
