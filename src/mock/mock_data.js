@@ -233,13 +233,6 @@ export const mockData = {
           "icon": "https://vpsls.com/vpslog.png"
         },
         {
-          "id": "site-1759836728394",
-          "name": "异次元店铺系统",
-          "url": "https://wiki.mcy.im/#/README",
-          "description": "",
-          "icon": "https://wiki.mcy.im/favicon.ico"
-        },
-        {
           "id": "site-1759837896779",
           "name": "彩虹易支付系统操作手册",
           "url": "https://www.kancloud.cn/net909/epay/2590611",
@@ -479,6 +472,13 @@ export const mockData = {
           "url": "https://naiyous.com/8895.html",
           "description": "搭建实操指南",
           "icon": "https://naiyous.com/wp-content/uploads/2022/11/LOGO.png"
+        },
+        {
+          "id": "site-1759836728394",
+          "name": "异次元店铺系统",
+          "url": "https://wiki.mcy.im/#/README",
+          "description": "",
+          "icon": "https://wiki.mcy.im/favicon.ico"
         }
       ]
     },
