@@ -315,6 +315,13 @@ export const mockData = {
           "url": "https://github.com/alireza0/s-ui",
           "description": "",
           "icon": "https://avatars.githubusercontent.com/u/12573084?s=48&v=4"
+        },
+        {
+          "id": "site-1762066916195",
+          "name": "〔3X-UI〕中文优化版",
+          "url": "https://github.com/gm-cx/3x-ui-cn?tab=readme-ov-file",
+          "description": "",
+          "icon": "https://github.com/gm-cx/3x-ui-cn/raw/main/media/3X-UI.png"
         }
       ]
     },
