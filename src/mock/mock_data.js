@@ -483,10 +483,17 @@ export const mockData = {
       ]
     },
     {
+      "id": "category-1762075173804",
+      "icon": "🌐",
+      "name": "个人搭建",
+      "order": 6,
+      "sites": []
+    },
+    {
       "id": "category-1759287502073",
       "icon": "🔧",
       "name": "在线工具",
-      "order": 6,
+      "order": 7,
       "sites": [
         {
           "id": "site-1759713685717",
@@ -529,7 +536,7 @@ export const mockData = {
       "id": "community",
       "name": "社区论坛",
       "icon": "👥",
-      "order": 7,
+      "order": 8,
       "sites": [
         {
           "id": "linuxdo",
