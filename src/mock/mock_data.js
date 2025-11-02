@@ -308,6 +308,13 @@ export const mockData = {
           "url": "https://github.com/MatsuriDayo/Matsuri",
           "description": "",
           "icon": "https://avatars.githubusercontent.com/u/48624112?v=4"
+        },
+        {
+          "id": "site-1762057375188",
+          "name": "SUI 面板",
+          "url": "https://github.com/alireza0/s-ui",
+          "description": "",
+          "icon": "https://avatars.githubusercontent.com/u/12573084?s=48&v=4"
         }
       ]
     },
