@@ -443,6 +443,13 @@ export const mockData = {
           "url": "https://fre123.com/",
           "description": "",
           "icon": "https://fre123.com/img/de8a069165967b269c0583488d68d32c.webp?format=webp&quality=80"
+        },
+        {
+          "id": "site-1762181060450",
+          "name": "Vlong’s Tech Studio",
+          "url": "https://2xxxai.com/",
+          "description": "",
+          "icon": "https://2xxxai.com/upload/68e14edf795b6.png"
         }
       ]
     },
