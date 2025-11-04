@@ -123,7 +123,7 @@ export const mockData = {
           "name": "wap.ac",
           "url": "https://wap.ac/clientarea.php",
           "description": "",
-          "icon": ""
+          "icon": "https://th.bing.com/th/id/OIP.gl02YwdleyPbLZUZkVXqrQHaFj?w=216&h=180&c=7&r=0&o=7&dpr=2&pid=1.7&rm=3"
         }
       ]
     },
