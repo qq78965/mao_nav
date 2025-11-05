@@ -117,13 +117,6 @@ export const mockData = {
           "url": "https://www.spaceship.com/zh/",
           "description": "购买域名网站",
           "icon": "https://66.088878.xyz/sitelogo/spaceship.com.ico"
-        },
-        {
-          "id": "site-1762266889510",
-          "name": "wap.ac",
-          "url": "https://wap.ac/clientarea.php",
-          "description": "",
-          "icon": "https://th.bing.com/th/id/OIP.gl02YwdleyPbLZUZkVXqrQHaFj?w=216&h=180&c=7&r=0&o=7&dpr=2&pid=1.7&rm=3"
         }
       ]
     },
