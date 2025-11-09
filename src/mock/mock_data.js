@@ -237,7 +237,7 @@ export const mockData = {
           "name": "彩虹易支付系统操作手册",
           "url": "https://www.kancloud.cn/net909/epay/2590611",
           "description": "",
-          "icon": "https://tse3-mm.cn.bing.net/th/id/OIP-C.vurR8LXENtXuV0FsHb2n_wHaHa?w=161&h=180&c=7&r=0&o=7&cb=12&dpr=2&pid=1.7&rm=3"
+          "icon": "https://th.bing.com/th/id/ODF.UnqwNxgEjoI6Bct1F7sG9g?w=32&h=32&qlt=90&pcl=fffffa&o=6&cb=ucfimg1&pid=1.2&ucfimg=1"
         },
         {
           "id": "site-1759844424748",
@@ -286,7 +286,7 @@ export const mockData = {
           "name": "SMS-Activate",
           "url": "https://sms-activate.io/",
           "description": "接码平台",
-          "icon": "https://smsactivate.s3.eu-central-1.amazonaws.com/assets/img/icons/logo/logo.svg"
+          "icon": "https://th.bing.com/th/id/ODF.ftpUGdnoGir4URUW27bx8A?w=32&h=32&qlt=90&pcl=fffffa&o=6&cb=ucfimg1&pid=1.2&ucfimg=1"
         },
         {
           "id": "site-1760974383205",
@@ -321,7 +321,7 @@ export const mockData = {
           "name": "hiddify",
           "url": "https://github.com/hiddify/hiddify-app",
           "description": "",
-          "icon": "https://github.com/hiddify/hiddify.com/raw/main/docs/assets/hiddify-app-logo.svg"
+          "icon": "https://th.bing.com/th/id/ODF.FS2QJ5UO8f0MOM3VA_bhWQ?w=32&h=32&qlt=90&pcl=fffffc&o=6&cb=ucfimg1&pid=1.2&ucfimg=1"
         }
       ]
     },
@@ -522,7 +522,7 @@ export const mockData = {
           "name": "ITDOG",
           "url": "https://www.itdog.cn/ping/",
           "description": "在线Ping IP\n",
-          "icon": "https://www.itdog.cn/frame/images/logo_2023.png?v=20251002A"
+          "icon": "https://th.bing.com/th/id/ODF.hqvoADar9r8amDkcaj6tkw?w=32&h=32&qlt=90&pcl=fffffa&o=6&cb=ucfimg1&pid=1.2&ucfimg=1"
         },
         {
           "id": "site-1759287812619",
