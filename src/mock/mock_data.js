@@ -529,7 +529,7 @@ export const mockData = {
           "name": "IP 查询 ",
           "url": "https://ping0.cc/",
           "description": "查询IP纯净度",
-          "icon": "https://xshuffle.me/sitelogo/ping0.cc.ico"
+          "icon": "https://th.bing.com/th/id/ODF.D9-8x7aRw_DGyOdq9APY_g?w=32&h=32&qlt=90&pcl=fffffa&o=6&cb=ucfimg1&pid=1.2&ucfimg=1"
         },
         {
           "id": "site-1759287965072",
