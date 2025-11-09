@@ -102,7 +102,7 @@ export const mockData = {
           "name": "bytevirt",
           "url": "https://bytevirt.com/index.php",
           "description": "",
-          "icon": "https://bytevirt.com/assets/img/logo.png"
+          "icon": "https://th.bing.com/th/id/ODF.eo4jWyWw3oJfPnG3V1t2ow?w=32&h=32&qlt=90&pcl=fffffa&o=6&cb=ucfimg1&pid=1.2&ucfimg=1"
         },
         {
           "id": "site-1759713912630",
