@@ -109,14 +109,14 @@ export const mockData = {
           "name": "cloudcone",
           "url": "https://cloudcone.com/",
           "description": "",
-          "icon": "https://cloudcone.com/wp-content/uploads/2017/05/cloudcone-logo-full.png"
+          "icon": "https://th.bing.com/th/id/ODF.E3Z5Z4DHTeokDEzJHZWDuQ?w=32&h=32&qlt=90&pcl=fffffa&o=6&cb=ucfimg1&pid=1.2&ucfimg=1"
         },
         {
           "id": "site-1760851061520",
           "name": "Spaceship",
           "url": "https://www.spaceship.com/zh/",
           "description": "购买域名网站",
-          "icon": "https://66.088878.xyz/sitelogo/spaceship.com.ico"
+          "icon": "https://th.bing.com/th/id/ODF.6IsOBgeiOcwksn0K-LVOiw?w=32&h=32&qlt=90&pcl=fffffa&o=6&cb=ucfimg1&pid=1.2&ucfimg=1"
         }
       ]
     },
