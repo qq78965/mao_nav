@@ -95,7 +95,7 @@ export const mockData = {
           "name": "name.com",
           "url": "https://www.name.com/",
           "description": "购买域名网站",
-          "icon": "https://tse3-mm.cn.bing.net/th/id/OIP-C.G1Oxo5uFA9j2uGuwk5wkTgHaBF?w=393&h=57&c=7&r=0&o=7&dpr=2&pid=1.7&rm=3"
+          "icon": "https://th.bing.com/th/id/ODF.KLoLKQlVm2zmNfBLwTADjA?w=32&h=32&qlt=90&pcl=fffffc&o=6&cb=ucfimg1&pid=1.2&ucfimg=1"
         },
         {
           "id": "site-1759713226925",
