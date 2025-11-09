@@ -544,6 +544,13 @@ export const mockData = {
           "url": "https://ip125.com/",
           "description": "IP 查询",
           "icon": "https://ip125.com/images/logo.png"
+        },
+        {
+          "id": "site-1762702016969",
+          "name": "原生 IP 检测",
+          "url": "https://ipinfo.io/",
+          "description": "",
+          "icon": "https://th.bing.com/th/id/ODL.3ad33b3ddc17bb85fc67e6d4ccb3d563?w=80&h=80&c=10&r=0&o=6&cb=B&pid=23.1&ucfimg=1"
         }
       ]
     },
