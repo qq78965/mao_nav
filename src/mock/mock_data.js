@@ -88,7 +88,7 @@ export const mockData = {
           "name": " Evoxt",
           "url": "https://console.evoxt.com/login",
           "description": "",
-          "icon": "https://tse3-mm.cn.bing.net/th/id/OIP-C.-xLY_uZq8OMXjtzJYw7ljQHaCW?w=324&h=110&c=7&r=0&o=5&dpr=2&pid=1.7"
+          "icon": "https://th.bing.com/th/id/ODF.OzehLmO2M4fh--WpmnbaoQ?w=32&h=32&qlt=90&pcl=fffffc&o=6&cb=ucfimg1&pid=1.2&ucfimg=1"
         },
         {
           "id": "site-1759314330178",
