@@ -322,6 +322,13 @@ export const mockData = {
           "url": "https://github.com/hiddify/hiddify-app",
           "description": "",
           "icon": "https://th.bing.com/th/id/ODF.FS2QJ5UO8f0MOM3VA_bhWQ?w=32&h=32&qlt=90&pcl=fffffc&o=6&cb=ucfimg1&pid=1.2&ucfimg=1"
+        },
+        {
+          "id": "site-1763128979191",
+          "name": "荔枝 IP",
+          "url": "https://www.lycheeip.com/order",
+          "description": "住宅 IP",
+          "icon": "https://th.bing.com/th/id/ODF.dkN3RPDC8GYArM8fGksXcg?w=32&h=32&qlt=90&pcl=fffffa&o=6&cb=ucfimg1&pid=1.2&ucfimg=1"
         }
       ]
     },
