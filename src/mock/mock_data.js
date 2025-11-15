@@ -172,7 +172,7 @@ export const mockData = {
     },
     {
       "id": "dev-tools",
-      "name": "开发工具",
+      "name": "工具箱",
       "icon": "🛠️",
       "order": 2,
       "sites": [
