@@ -342,7 +342,7 @@ export const mockData = {
           "name": "注视影视",
           "url": "https://gaze.run/",
           "description": "",
-          "icon": "https://img.api123.pro/i/2023/11/25/6561ae9a7b3d3.png"
+          "icon": "https://fre123.com/img/2baf9566838d72ed08e12b4b62a9016a.png"
         }
       ]
     },
