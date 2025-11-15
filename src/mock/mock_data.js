@@ -279,6 +279,13 @@ export const mockData = {
           "url": "https://www.lycheeip.com/order",
           "description": "住宅 IP",
           "icon": "https://th.bing.com/th/id/ODF.dkN3RPDC8GYArM8fGksXcg?w=32&h=32&qlt=90&pcl=fffffa&o=6&cb=ucfimg1&pid=1.2&ucfimg=1"
+        },
+        {
+          "id": "site-1763215609987",
+          "name": "GoRelay",
+          "url": "https://gorelay.net/#/",
+          "description": "跨境专线",
+          "icon": "https://th.bing.com/th/id/ODF.FfrVSpa2nXxaz8VpfYIlwQ?w=32&h=32&qlt=90&pcl=fffffa&o=6&cb=ucfimg1&pid=1.2&ucfimg=1"
         }
       ]
     },
