@@ -329,6 +329,13 @@ export const mockData = {
           "url": "https://www.gying.in/",
           "description": "",
           "icon": "https://xshuffle.me/sitelogo/www.gying.in.ico"
+        },
+        {
+          "id": "site-1763167855840",
+          "name": "AGE动漫",
+          "url": "https://www.agedm.io/",
+          "description": "",
+          "icon": "https://img.api123.pro/i/2023/11/25/6561b8413511a.png"
         }
       ]
     },
