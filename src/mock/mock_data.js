@@ -541,7 +541,7 @@ export const mockData = {
           "id": "site-1763482869273",
           "name": "666导航🍁",
           "url": "https://ww.699006.xyz/",
-          "description": "",
+          "description": "Vercel 搭建",
           "icon": "https://ww.699006.xyz/logo.png"
         }
       ]
