@@ -536,6 +536,13 @@ export const mockData = {
           "url": "http://103.106.191.146:3000/#",
           "description": "",
           "icon": "https://avatars.githubusercontent.com/u/8361145?s=48&v=4"
+        },
+        {
+          "id": "site-1763482869273",
+          "name": "666导航🍁",
+          "url": "https://ww.699006.xyz/",
+          "description": "",
+          "icon": "https://ww.699006.xyz/logo.png"
         }
       ]
     },
