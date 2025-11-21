@@ -293,6 +293,13 @@ export const mockData = {
           "url": "https://gorelay.net/#/",
           "description": "跨境专线",
           "icon": "https://th.bing.com/th/id/ODF.FfrVSpa2nXxaz8VpfYIlwQ?w=32&h=32&qlt=90&pcl=fffffa&o=6&cb=ucfimg1&pid=1.2&ucfimg=1"
+        },
+        {
+          "id": "site-1763738752566",
+          "name": "NodeQuality",
+          "url": "https://github.com/LloydAsp/NodeQuality",
+          "description": "vps测试脚本",
+          "icon": "https://avatars.githubusercontent.com/u/131958103?s=48&v=4"
         }
       ]
     },
