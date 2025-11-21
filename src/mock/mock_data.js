@@ -49,13 +49,6 @@ export const mockData = {
           "icon": "/sitelogo/www.huaweicloud.com.ico"
         },
         {
-          "id": "site-1752644060499",
-          "name": "帕斯云",
-          "url": "https://www.pasyun.com/",
-          "description": "ipv6机器",
-          "icon": "/sitelogo/www.pasyun.com.ico"
-        },
-        {
           "id": "site-1759261271303",
           "name": "racknerd",
           "url": "https://racknerd.com/",
