@@ -117,6 +117,13 @@ export const mockData = {
           "url": "https://www.dogyun.com/",
           "description": "狗云",
           "icon": "https://th.bing.com/th/id/ODF.xNit1QAXi2ahBglUACKkuQ?w=32&h=32&qlt=90&pcl=fffffc&o=6&pid=1.2"
+        },
+        {
+          "id": "site-1763736073644",
+          "name": "vmiss",
+          "url": "https://app.vmiss.com/",
+          "description": "",
+          "icon": "https://th.bing.com/th/id/ODF.ZgTbQTtuItr01EMSTS52kg?w=32&h=32&qlt=90&pcl=fffffa&o=6&pid=1.2"
         }
       ]
     },
