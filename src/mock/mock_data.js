@@ -124,6 +124,13 @@ export const mockData = {
           "url": "https://app.vmiss.com/",
           "description": "",
           "icon": "https://th.bing.com/th/id/ODF.ZgTbQTtuItr01EMSTS52kg?w=32&h=32&qlt=90&pcl=fffffa&o=6&pid=1.2"
+        },
+        {
+          "id": "site-1764255433714",
+          "name": "wap.ac",
+          "url": "https://wap.ac/index.php",
+          "description": "",
+          "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAh1BMVEVHcExQXopOTJQ9V2kuXXswX3xFTZU8TVU4XHMzYX89WGlBQkFDRUJOQ4lgMbRZKLFfL7QtXHowX30tXHovXnxAQUE/QEBAQEBdLbRZKLFZKLFaKbIwXnxCQ0FeL7RZKbIuXXsvXntARUlAQUFAQUFZKLJgMbRdL68zXXk/QD88UV9CQ0NXNJfWUE29AAAALXRSTlMABQlWi34tJRZsRYpsHjuEcv/A96DF//KY//rM3LGfr+3Lnv/a61W+qfi6lZ6DFefHAAAA1klEQVR4Ae2NhWHFIBBAL4JLo8TdZf/5Suo79D84N/g3OK4LD+5jXefL/XTA8xF2CaXIZy4XUgHoN0ugnzIKQ8YixOMwUanJJEBeWMpK26LN+lFYszhkXmZMQ6Etyrwri9YBwHVY92E8hL03mmmauZ1c1LoUmwtA9/CTyJtNMxvh5EXZVcXHpIO+ivt4GDGblPy5CV5vp+Iw3lPzcMi2KLZgVfCA7Tleh/2ZmXlsMtNsRRHAF9QfEgcN+5imHpArbe6qWuELhxIKlChCiAvWIQpj63zy4h2QZxHqbyHmwQAAAABJRU5ErkJggg=="
         }
       ]
     },
