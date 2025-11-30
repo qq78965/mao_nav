@@ -621,6 +621,13 @@ export const mockData = {
           "url": "https://ipinfo.io/",
           "description": "原生 IP 检测",
           "icon": "https://th.bing.com/th/id/ODL.3ad33b3ddc17bb85fc67e6d4ccb3d563?w=80&h=80&c=10&r=0&o=6&cb=B&pid=23.1&ucfimg=1"
+        },
+        {
+          "id": "site-1764511771814",
+          "name": "Speedtest",
+          "url": "https://www.speedtest.net/",
+          "description": "测速工具",
+          "icon": "https://th.bing.com/th/id/ODF.UkCgjmb8Iah1hiRiuizE-Q?w=32&h=32&qlt=91&pcl=fffffa&o=6&pid=1.2"
         }
       ]
     },
