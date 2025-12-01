@@ -513,6 +513,13 @@ export const mockData = {
           "url": "https://fre123.com/",
           "description": "",
           "icon": "https://fre123.com/img/de8a069165967b269c0583488d68d32c.webp?format=webp&quality=80"
+        },
+        {
+          "id": "site-1764599436310",
+          "name": " 晓柒科技",
+          "url": "https://www.xiaoqikeji.com/",
+          "description": "",
+          "icon": ""
         }
       ]
     },
