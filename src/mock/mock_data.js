@@ -314,6 +314,13 @@ export const mockData = {
           "url": "https://github.com/LloydAsp/NodeQuality",
           "description": "vps测试脚本",
           "icon": "https://avatars.githubusercontent.com/u/131958103?s=48&v=4"
+        },
+        {
+          "id": "site-1764854694545",
+          "name": "flux-panel转发面板",
+          "url": "https://github.com/BrunuhVille/flux-panel",
+          "description": "",
+          "icon": "https://avatars.githubusercontent.com/u/55394446?s=48&v=4"
         }
       ]
     },
