@@ -321,6 +321,13 @@ export const mockData = {
           "url": "https://github.com/BrunuhVille/flux-panel",
           "description": "",
           "icon": "https://avatars.githubusercontent.com/u/55394446?s=48&v=4"
+        },
+        {
+          "id": "site-1764855960135",
+          "name": "LinuxMirrors",
+          "url": "https://github.com/SuperManito/LinuxMirrors",
+          "description": "一键安装Docker全家桶的脚本",
+          "icon": "https://avatars.githubusercontent.com/u/68613938?s=48&v=4"
         }
       ]
     },
