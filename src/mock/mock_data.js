@@ -193,7 +193,7 @@ export const mockData = {
           "id": "site-1759713353307",
           "name": "实用的VPS选购指南",
           "url": "https://vpsls.com/",
-          "description": "",
+          "description": "vps推荐",
           "icon": "https://vpsls.com/vpslog.png"
         },
         {
