@@ -198,23 +198,23 @@ export const mockData = {
         },
         {
           "id": "site-1759837896779",
-          "name": "彩虹易支付系统操作手册",
+          "name": "彩虹易支付",
           "url": "https://www.kancloud.cn/net909/epay/2590611",
-          "description": "",
+          "description": "彩虹易支付系统操作手册",
           "icon": "https://th.bing.com/th/id/ODF.UnqwNxgEjoI6Bct1F7sG9g?w=32&h=32&qlt=90&pcl=fffffa&o=6&cb=ucfimg1&pid=1.2&ucfimg=1"
         },
         {
           "id": "site-1764430069468",
-          "name": "哆啦A梦转发面板",
+          "name": "flux-panel转发面板",
           "url": "https://github.com/bqlpfy/flux-panel",
-          "description": "",
+          "description": "哆啦A梦转发面板",
           "icon": "https://avatars.githubusercontent.com/u/184593746?s=48&v=4"
         },
         {
           "id": "site-1764854694545",
           "name": "flux-panel转发面板",
           "url": "https://github.com/BrunuhVille/flux-panel",
-          "description": "",
+          "description": "哆啦A梦转发面板 纪念版",
           "icon": "https://avatars.githubusercontent.com/u/55394446?s=48&v=4"
         },
         {
@@ -235,7 +235,7 @@ export const mockData = {
           "id": "site-1760237411412",
           "name": "無名の主页",
           "url": "https://github.com/imsyy/home",
-          "description": "",
+          "description": "个人主页搭建",
           "icon": "https://avatars.githubusercontent.com/u/42232682?s=48&v=4"
         },
         {
@@ -263,35 +263,35 @@ export const mockData = {
           "id": "site-1759870454198",
           "name": "v2rayN",
           "url": "https://github.com/2dust/v2rayN/releases/tag/7.12.7",
-          "description": "",
+          "description": "app",
           "icon": "https://avatars.githubusercontent.com/u/31833384?s=48&v=4"
         },
         {
           "id": "site-1762072036055",
           "name": "hiddify",
           "url": "https://github.com/hiddify/hiddify-app",
-          "description": "",
+          "description": "app",
           "icon": "https://th.bing.com/th/id/ODF.FS2QJ5UO8f0MOM3VA_bhWQ?w=32&h=32&qlt=90&pcl=fffffc&o=6&cb=ucfimg1&pid=1.2&ucfimg=1"
         },
         {
           "id": "site-1761102202470",
           "name": "Matsuri 茉莉",
           "url": "https://github.com/MatsuriDayo/Matsuri",
-          "description": "",
+          "description": "app",
           "icon": "https://avatars.githubusercontent.com/u/48624112?v=4"
         },
         {
           "id": "site-1762066916195",
           "name": "〔3X-UI〕中文优化版",
           "url": "https://github.com/gm-cx/3x-ui-cn?tab=readme-ov-file",
-          "description": "",
+          "description": "〔3X-UI〕中文优化版搭建",
           "icon": "https://github.com/gm-cx/3x-ui-cn/raw/main/media/3X-UI.png"
         },
         {
           "id": "site-1762057375188",
           "name": "S-UI 面板",
           "url": "https://github.com/alireza0/s-ui",
-          "description": "",
+          "description": "S-UI 面板搭建",
           "icon": "https://avatars.githubusercontent.com/u/12573084?s=48&v=4"
         },
         {
