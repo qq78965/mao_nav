@@ -599,6 +599,13 @@ export const mockData = {
           "url": "https://ww.699006.xyz/",
           "description": "Vercel 搭建",
           "icon": "https://ww.699006.xyz/logo.png"
+        },
+        {
+          "id": "site-1765096819317",
+          "name": "666导航",
+          "url": "https://www.699006.xyz/",
+          "description": "Cloudflare 搭建",
+          "icon": "https://ww.699006.xyz/logo.png"
         }
       ]
     },
