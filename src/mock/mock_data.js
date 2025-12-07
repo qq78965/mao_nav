@@ -575,7 +575,7 @@ export const mockData = {
           "id": "site-1759836728394",
           "name": "异次元店铺系统",
           "url": "https://wiki.mcy.im/#/README",
-          "description": "",
+          "description": "搭建实操指南",
           "icon": "https://wiki.mcy.im/favicon.ico"
         }
       ]
