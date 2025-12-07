@@ -534,6 +534,13 @@ export const mockData = {
           "url": "https://index.remio.cc/",
           "description": "个人主页导航站",
           "icon": "https://avatars.githubusercontent.com/u/49872605?s=48&v=4"
+        },
+        {
+          "id": "site-1765093899895",
+          "name": "Mio 导航",
+          "url": "https://nav.kasuie.cc/",
+          "description": "导航站",
+          "icon": "https://avatars.githubusercontent.com/u/49872605?s=48&v=4"
         }
       ]
     },
