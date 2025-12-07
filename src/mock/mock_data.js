@@ -594,6 +594,13 @@ export const mockData = {
           "icon": "https://avatars.githubusercontent.com/u/8361145?s=48&v=4"
         },
         {
+          "id": "site-1765096897994",
+          "name": "666导航🍁",
+          "url": "https://w.699006.xyz/",
+          "description": "Cloudflare 搭建",
+          "icon": "https://ww.699006.xyz/logo.png"
+        },
+        {
           "id": "site-1763482869273",
           "name": "666导航🍁",
           "url": "https://ww.699006.xyz/",
