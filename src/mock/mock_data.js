@@ -434,56 +434,56 @@ export const mockData = {
           "id": "site-1759836495819",
           "name": "科技小露",
           "url": "https://www.kejixiaolu.com/tiktok.html",
-          "description": "",
+          "description": "博客",
           "icon": "https://yt3.googleusercontent.com/QzWo0bQN1CZXU8BrfBBCiyQLSQKYfqjcj1N4bfTmxVCgbHYowOOfPrg27HIhfU8rK1c4NeWu=s160-c-k-c0x00ffffff-no-rj"
         },
         {
           "id": "site-1759841811584",
           "name": " 不良林 ",
           "url": "https://bulianglin.com/",
-          "description": "",
+          "description": "博客",
           "icon": "https://bulianglin.com/head.png"
         },
         {
           "id": "site-1759836608857",
           "name": "奶油之家 ",
           "url": "https://naiyous.com/",
-          "description": "",
+          "description": "博客",
           "icon": "https://naiyous.com/wp-content/uploads/2022/11/LOGO.png"
         },
         {
           "id": "site-1760237652802",
           "name": "凿壁偷光不算偷",
           "url": "https://www.99600000.xyz",
-          "description": "导航站",
+          "description": "个人主页导航站",
           "icon": "https://blog.99600000.xyz/favicon.ico"
         },
         {
           "id": "site-1762181060450",
           "name": "Vlong’s Tech Studio",
           "url": "https://2xxxai.com/",
-          "description": "",
+          "description": "博客",
           "icon": "https://2xxxai.com/upload/68e14edf795b6.png"
         },
         {
           "id": "site-1759837021274",
           "name": "jcnf的导航站",
           "url": "https://ybfl.net/",
-          "description": "",
+          "description": "导航站",
           "icon": "https://pic.ybfl.xyz/i/2022/09/27/yqm0ov-0.png"
         },
         {
           "id": "site-1759840445466",
           "name": "一点科技",
           "url": "https://1keji.net/c/5-category/5",
-          "description": "",
+          "description": "博客",
           "icon": "http://1keji.net/uploads/default/original/1X/8890980b4aed595e16e5dd5c23e20b4b38918b0d.webp"
         },
         {
           "id": "site-1764599436310",
           "name": " 晓柒科技",
           "url": "https://www.xiaoqikeji.com/",
-          "description": "",
+          "description": "博客",
           "icon": "https://www.faviconextractor.com/favicon/www.xiaoqikeji.com?larger=true"
         },
         {
@@ -504,35 +504,35 @@ export const mockData = {
           "id": "site-1761188521015",
           "name": "FRE123",
           "url": "https://fre123.com/",
-          "description": "",
+          "description": "导航站",
           "icon": "https://fre123.com/img/de8a069165967b269c0583488d68d32c.webp?format=webp&quality=80"
         },
         {
           "id": "site-1760411532139",
           "name": "豌豆",
           "url": "https://wandou.eu.org/",
-          "description": "",
+          "description": "导航站",
           "icon": "https://wandou.eu.org/wp-content/uploads/2023/08/%E8%B1%8C%E8%B1%86%E5%8D%9A%E5%AE%A2-1.png"
         },
         {
           "id": "site-1759262400758",
           "name": "Navigation",
           "url": "https://xshuffle.me/",
-          "description": "",
+          "description": "导航站",
           "icon": "https://xshuffle.me/logo.png"
         },
         {
           "id": "site-1759262515537",
           "name": "猫猫导航🐱",
           "url": "https://nav.maodeyu.fun/",
-          "description": "",
+          "description": "导航站",
           "icon": "https://nav.maodeyu.fun/logo.png"
         },
         {
           "id": "site-1760151992831",
           "name": "66 Nav",
           "url": "https://66.088878.xyz/",
-          "description": "",
+          "description": "导航站",
           "icon": "https://66.088878.xyz/logo.png"
         }
       ]
