@@ -651,28 +651,6 @@ export const mockData = {
           "icon": "https://th.bing.com/th/id/ODF.UkCgjmb8Iah1hiRiuizE-Q?w=32&h=32&qlt=91&pcl=fffffa&o=6&pid=1.2"
         }
       ]
-    },
-    {
-      "id": "community",
-      "name": "社区论坛",
-      "icon": "👥",
-      "order": 8,
-      "sites": [
-        {
-          "id": "linuxdo",
-          "name": "Linux.do",
-          "url": "https://linux.do",
-          "description": "Linux与开源技术社区",
-          "icon": "/sitelogo/linux.do.ico"
-        },
-        {
-          "id": "52pojie",
-          "name": "吾爱破解",
-          "url": "https://www.52pojie.cn/",
-          "description": "软件安全与破解技术论坛",
-          "icon": "/sitelogo/www.52pojie.cn.ico"
-        }
-      ]
     }
   ],
   "title": "666导航🍁"
