@@ -527,6 +527,13 @@ export const mockData = {
           "url": "https://www.xiaoqikeji.com/",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1765093844480",
+          "name": "remio-home",
+          "url": "https://index.remio.cc/",
+          "description": "个人主页导航站",
+          "icon": "https://avatars.githubusercontent.com/u/49872605?s=48&v=4"
         }
       ]
     },
