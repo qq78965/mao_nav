@@ -434,7 +434,7 @@ export const mockData = {
     {
       "id": "category-1759262281396",
       "icon": "💻",
-      "name": "网站导航",
+      "name": "博客网站",
       "order": 4,
       "sites": [
         {
